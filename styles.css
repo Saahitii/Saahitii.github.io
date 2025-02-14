@@ -2,12 +2,12 @@
   margin: 0;
 }
 .header {
-  background-color: pink;
+  background-color: white;
   display: flex;
   justify-content: space-between;
 }
 .productBlock {
-  background-color: orange;
+  background-color: white;
 }
 .cartBlock {
   background-color: silver;
