@@ -10,11 +10,11 @@
   }
 
   .header-row {
-    background-color: pink;
+    background-color: orange;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    position: sticky;
+    position: scroll;
     top: 0px;
   }
 
